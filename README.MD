@@ -1,6 +1,6 @@
 # Calculadora de Área de Triángulo con Pytest y GitHub Actions
 
-[![Python Tests](https://github.com/santosa/area-triangulo-pytest/workflows/Python%20Tests/badge.svg)](https://github.com/santosa/area-triangulo-pytest/actions)
+[![Python Tests](evidencia_capturas/5.png)
 
 ## 📋 Descripción
 Este proyecto implementa una calculadora para el área de triángulos con pruebas automatizadas usando pytest y GitHub Actions, desarrollado como parte del **Caso #100** del Tecnológico de Monterrey.
